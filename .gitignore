@@ -50,7 +50,8 @@ coverage.xml
 *.pot
 
 # Django stuff:
-*.log
+*.c.log
+*.shame.log
 local_settings.py
 
 # Flask stuff:
